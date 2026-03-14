@@ -29,8 +29,8 @@ const CONFIG = {
         },
         second: {
             text: "T'aimes passer du temps avec moi ?",                          // For the love meter
-            startText: "Evidemment ! ❤️",                                   // Text before the percentage
-            nextBtn: "Hm ça vaaa"                                         // Text for the next button
+            startText: "Hm ça va",                                   // Text before the percentage
+            nextBtn: "J'ai super hâte !!"                                         // Text for the next button
         },
         third: {
             text: "Veux-tu passer le week-end avec moi?🌹", // The big question!
@@ -42,8 +42,8 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "J'ai extrêmement hâte !!",  // Shows when they go past 1000%
-        high: "J'ai hâte !!",              // Shows when they go past 100%
+        extreme: "J'ai extrêmement hâte !!",  // Shows when they go past 100%
+        high: "J'ai hâte !!",              // Shows when they go past 70%
         normal: "Ce sera cool"                           // Shows when they go past 50%
     },
 
